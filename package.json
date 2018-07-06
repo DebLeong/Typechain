@@ -1,0 +1,13 @@
+{
+  "name": "Typechain",
+  "version": "1.0.0",
+  "description": "Learning Typscript by making a blockchain",
+  "main": "index.js",
+  "repository": "https://github.com/DebLeong/Typechain",
+  "author": "DebLeong <debleon9@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
+}
