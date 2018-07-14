@@ -36,9 +36,9 @@ Lockfile:
 
 Trace: 
   Error: Command failed.
-  Exit code: 1
+  Exit code: 2
   Command: sh
-  Arguments: -c node index.js
+  Arguments: -c tsc
   Directory: /Users/Deb/Desktop/Typechain
   Output:
   
